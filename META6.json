@@ -1,18 +1,18 @@
 {
-  "name": "Log::Timeline",
-  "description": "Log tasks with start/end periods and phases, as well as individual events.",
-  "version": "0.5.1",
-  "perl": "6.d",
+  "auth": "zef:raku-community-modules",
   "authors": [
     "Jonathan Worthington <jnthn@jnthn.net>"
   ],
-  "auth": "zef:jnthn",
+  "build-depends": [
+  ],
   "depends": [
     "CBOR::Simple",
     "JSON::Fast"
   ],
-  "build-depends": [],
-  "test-depends": [],
+  "description": "Log tasks with start/end periods and phases, as well as individual events",
+  "license": "Artistic-2.0",
+  "name": "Log::Timeline",
+  "perl": "6.d",
   "provides": {
     "Log::Timeline": "lib/Log/Timeline.rakumod",
     "Log::Timeline::Model": "lib/Log/Timeline/Model.rakumod",
@@ -23,7 +23,12 @@
     "Log::Timeline::Raku::LogTimelineSchema": "lib/Log/Timeline/Raku/LogTimelineSchema.rakumod",
     "Log::Timeline::Raku::Setup": "lib/Log/Timeline/Raku/Setup.rakumod"
   },
-  "resources": [],
-  "license": "Artistic-2.0",
-  "source-url": "https://github.com/jnthn/raku-log-timeline.git"
+  "resources": [
+  ],
+  "source-url": "https://github.com/raku-community-modules/Log-Timeline.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.5.1"
 }
