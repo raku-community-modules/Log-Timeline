@@ -5,13 +5,6 @@ NAME
 
 Log::Timeline - Log tasks with start/end periods and phases, as well as individual events
 
-SYNOPSIS
-========
-
-```raku
-use Log::Timeline;
-```
-
 DESCRIPTION
 ===========
 

@@ -42,14 +42,6 @@ END try .close with PROCESS::<$LOG-TIMELINE-OUTPUT>;
 
 Log::Timeline - Log tasks with start/end periods and phases, as well as individual events
 
-=head1 SYNOPSIS
-
-=begin code :lang<raku>
-
-use Log::Timeline;
-
-=end code
-
 =head1 DESCRIPTION
 
 When building an application with many ongoing, potentially overlapping,
