@@ -1,7 +1,7 @@
 {
   "auth": "zef:raku-community-modules",
   "authors": [
-    "Jonathan Worthington <jnthn@jnthn.net>"
+    "Jonathan Worthington"
   ],
   "build-depends": [
   ],
@@ -27,6 +27,8 @@
   ],
   "source-url": "https://github.com/raku-community-modules/Log-Timeline.git",
   "tags": [
+    "LOG",
+    "TIMELINE"
   ],
   "test-depends": [
   ],

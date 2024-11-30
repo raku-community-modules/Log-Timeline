@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/lizmat/Log-Timeline/actions/workflows/test.yml/badge.svg)](https://github.com/lizmat/Log-Timeline/actions)
+[![Actions Status](https://github.com/raku-community-modules/Log-Timeline/actions/workflows/linux.yml/badge.svg)](https://github.com/raku-community-modules/Log-Timeline/actions) [![Actions Status](https://github.com/raku-community-modules/Log-Timeline/actions/workflows/macos.yml/badge.svg)](https://github.com/raku-community-modules/Log-Timeline/actions) [![Actions Status](https://github.com/raku-community-modules/Log-Timeline/actions/workflows/windows.yml/badge.svg)](https://github.com/raku-community-modules/Log-Timeline/actions)
 
 NAME
 ====
